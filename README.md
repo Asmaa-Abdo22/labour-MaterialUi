@@ -1,12 +1,40 @@
-# React + Vite
+# 🚀 Labour Material UI - React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive **landing page** built with **React** and **Material UI (MUI)**.  
+This project demonstrates how to create a stylish and interactive landing page using **MUI components** with smooth animations.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📸 Preview
 
-## Expanding the ESLint configuration
+![Image](https://github.com/user-attachments/assets/73a7a993-f85c-4480-bac2-d0e410752bfa)
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### 🔗 Live Demo  
+[👉 Click here to view the live demo](https://asmaa-abdo22.github.io/labour-MaterialUi/)
+
+---
+
+## 🛠 Technologies & Libraries Used
+
+- ⚛ **React.js** - Frontend framework for building UI  
+- 🎨 **Material UI (MUI)** - A popular React UI framework for beautiful design  
+- ✨ **React Awesome Reveal** - For smooth animations and transitions  
+
+---
+
+## 📦 Installation & Setup
+
+Follow these steps to run the project locally:
+
+```sh
+# Clone the repository
+git clone https://github.com/asmaa-abdo22/labour-MaterialUi.git
+
+# Navigate to the project directory
+cd labour-MaterialUi
+
+# Install dependencies
+npm install
+
+# Start the development server
+npm run dev
